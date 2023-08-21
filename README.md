@@ -1,5 +1,6 @@
 # FastAPI
-    python -m venv venv
+    ##set enviroment
+                    python -m venv venv
     
     pip install fastapi
     pip install uvicorn
