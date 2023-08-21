@@ -7,13 +7,17 @@
     
     venv\Scripts\activate.ps1
 
-## Install
+## Install dependencies
 
-    pip install fastapi
+    pip install fastapi[all]
     pip install uvicorn
     pip install pydantic
+    
+## check installed packages
 
+    pip freenze
 
+## run the server
     python -m uvicorn main:app --reload
 
 
