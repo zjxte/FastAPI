@@ -1,4 +1,4 @@
-# FastAPI
+# FastAPI --- terminal.integrated.gp
 
 ## set Virtual environment
     
