@@ -1,4 +1,6 @@
 # FastAPI
+    python -m venv venv
+    
     pip install fastapi
     pip install uvicorn
     pip install pydantic
